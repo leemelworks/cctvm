@@ -1,2 +1,2 @@
-# cctvm
+# cctvms
 CCTV Monitoring Software
